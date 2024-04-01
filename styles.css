@@ -1,0 +1,37 @@
+body{
+    font-family : Lucida Console;
+    background-color : #217aed;
+    margin: 15px;
+    padding: 100px;
+}
+.konteiner{
+    background-color : #3b8cf5;
+    max-width : 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow : 0 0 10px rgba(0, 0, 0, 0.1);
+}
+p, h1 {
+    text - align : center;
+
+
+}
+p{
+    font-size : 25px;
+}
+a {
+    color : #525252;
+}
+img {
+    display: block;
+    border-radius: 5%;
+    width: 230px;
+    height: 150px;
+}
+.left{
+    float:left
+}
+.right{
+float:right
+}
